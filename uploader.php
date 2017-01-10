@@ -19,7 +19,7 @@ $service = new Google_Service_Drive($client);
  * Obtem um novo token de acesso
  * Tipo da variável				Nome 		   Descrição da variável
  *
- * @param Google_Service_Drive 			$client 	-  Objeto Cliente da API
+ * @param Google_Client 			$client 	-  Objeto Cliente da API
  *
  * @return void
  */
